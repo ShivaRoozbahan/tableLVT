@@ -1,0 +1,21 @@
+body {
+  font-family: A Naskh Tahrir;
+  background-color: #e0e1e9;
+}
+
+table {
+  width: 100%;
+  border: 1px solid darkslateblue;
+}
+th,
+td {
+  border: 1px solid darkslateblue;
+  border-radius: 10px;
+  padding: 10px;
+}
+th {
+  background-color: #e7cee3;
+}
+td {
+  background-color: #ffb8d1;
+}
