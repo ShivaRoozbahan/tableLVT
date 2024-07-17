@@ -4,7 +4,7 @@ body {
 }
 
 table {
-  width: 100%;
+  width: 60%;
   border: 1px solid darkslateblue;
 }
 th,
@@ -18,4 +18,5 @@ th {
 }
 td {
   background-color: #ffb8d1;
+  text-align: center;
 }
